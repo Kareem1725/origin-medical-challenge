@@ -3,8 +3,7 @@ from src.analysis.image_analysis import ImageAnalyzer
 from src.analysis.mask_analysis import MaskAnalyzer
 from src.analysis.visualization import Visualization
 
-from src.Validation.dataset_validator import DatasetValidator
-
+from src.validation.dataset_validator import DatasetValidator
 from config import IMAGE_CSV, MASK_CSV
 from logger_config import get_logger
 
