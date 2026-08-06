@@ -1,0 +1,6 @@
+numpy==2.5.1
+pandas==3.0.5
+matplotlib==3.11.1
+Pillow==12.3.0
+pydicom==3.0.2
+PyMuPDF==1.28.0

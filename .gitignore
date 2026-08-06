@@ -1,0 +1,35 @@
+# Ignore generated data reports
+*.csv
+
+# Ignore Python files
+__pycache__/
+*.pyc
+
+# Ignore environment
+.venv/
+
+# Ignore IDE
+.idea/
+.vscode/
+
+# Ignore logs
+logs/
+
+# Dataset
+dataset/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# IDE
+.idea/
+
+# Logs
+logs/
+
+# Generated reports
+*.csv
